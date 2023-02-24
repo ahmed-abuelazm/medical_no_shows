@@ -1,0 +1,45 @@
+- Remove specific value from a column pandas
+https://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value
+
+- How to rename a column in pandas dataframe
+https://www.statology.org/pandas-rename-columns/
+https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/
+
+- Remove time from datetime pandas
+https://stackoverflow.com/questions/29310116/removing-time-from-datetime-variable-in-pandas
+
+- Replace values in a pandas dataframe column
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html
+
+- Drop rows from pandas dataframe based on conditions
+https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
+https://stackoverflow.com/questions/13851535/how-to-delete-rows-from-a-pandas-dataframe-based-on-a-conditional-expression
+
+- Get the difference between 2 pandas dataframe date columns
+https://stackoverflow.com/questions/37840812/pandas-subtracting-two-date-columns-and-the-result-being-an-integer
+https://www.statology.org/pandas-date-difference/
+
+- How to get the top 5 most frequent values in a pandas dataframe column
+https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column
+
+- How to plot top 5 most frequent values in seaborn
+https://stackoverflow.com/questions/70040421/how-to-plot-top-5-values-in-seaborn
+
+- How to invert y-axis for a horizontal bar plot
+https://stackoverflow.com/questions/34076177/matplotlib-horizontal-bar-chart-barh-is-upside-down
+
+- How to display percent value pie chart
+https://stackoverflow.com/questions/6170246/how-do-i-use-matplotlib-autopct#:~:text=autopct%20enables%20you%20to%20display,set%20to%20the%20string%20'%25.
+
+- Plotting relationship between 2 columns matplotlib
+https://stackoverflow.com/questions/46046903/plotting-the-relation-between-two-columns-using-matplotlib-or-seaborn
+
+- How to arrange the values on x-axis matplotlib
+https://stackoverflow.com/questions/47255746/change-order-on-x-axis-for-matplotlib-chart
+
+- Exclude male value in gender column pandas dataframe
+https://stackoverflow.com/questions/51044898/how-do-i-exclude-the-male-rows-of-the-data-frame-df-in-r-without-using-the-fo
+
+- Seaborn scatterplot
+https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+
